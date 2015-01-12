@@ -1,0 +1,4 @@
+p{font-size: 100px; float:left;display:block; clear:both;}
+p:before{content:"label: "; font-size:20px;}
+body{background:red;}
+.btn{padding:20px; float:left;}
